@@ -80,6 +80,6 @@ Deposited: $200.0
 
 ## Author
 
-- **Your Name**
-- [Your LinkedIn Profile](https://linkedin.com/in/your-profile) (optional)
-- [Your Email Address](mailto:your-email@example.com)
+- **BHARATH KUMAR N**
+- LinkedIn Profile - https://www.linkedin.com/in/bharath-kumar03
+- Email Address - mailto: bk0276067@gmail.com
