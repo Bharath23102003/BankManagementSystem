@@ -1,4 +1,4 @@
-# Multi-Account Bank Management System
+# Bank Management System
 
 A simple Java application to manage multiple bank accounts, allowing users to perform essential banking operations such as deposits, withdrawals, balance checks, and viewing transaction histories.
 
